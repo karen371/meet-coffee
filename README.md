@@ -1,10 +1,11 @@
 # meet-coffee
 repositorio de proyecto meet&amp;coffe
 
+#### contenido del menu
 ´´´
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div  class="container-fluid">
-            <a href="#"><img class="navbar-toggler-icon"  src="./assets/img/coffee-cup.svg" alt="logo"></a>
+            <!-- <a href="#"><img class="navbar-toggler-icon"  src="./assets/img/coffee-cup.svg" alt="logo"></a> -->
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item"><a class="nav-link" href="#">Ubicación</a></li>
@@ -16,3 +17,5 @@ repositorio de proyecto meet&amp;coffe
         </div>
     </nav>
 ´´´
+
+
